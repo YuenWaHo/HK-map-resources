@@ -1,5 +1,8 @@
 # Shapefile resources for Ecological and Environmental studies in Hong Kong
 
-| Map                          | Link                                                                                               |
-| ---------------------------- | -------------------------------------------------------------------------------------------------- |
-| HK Guangdong Terrestrial Map | [HK-Guangdong map](https://github.com/YuenWaHo/HK-map-resources/tree/main/Topography/HK-Guangdong) |
+| Map                                     | Link                                                                                                                                                                                                                         |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| HK Guangdong Terrestrial Map            | [HK-Guangdong map](https://github.com/YuenWaHo/HK-map-resources/tree/main/Topography/HK-Guangdong)                                                                                                                           |
+| HK Ecologicall Important Stream (AFCD)  | [Ecological Streams](https://github.com/YuenWaHo/HK-map-resources/tree/main/Topography/EcologicallyImportantStream_SHP)                                                                                                      |
+| South China Sea Bathymetry              | [Bathymetry](https://github.com/YuenWaHo/HK-map-resources/tree/main/Topography/SouthChinaSea-Bathymetry)                                                                                                                     |
+| China's province and county data (2020) | [China Province & County](<https://github.com/YuenWaHo/HK-map-resources/tree/main/Topography/%E4%B8%AD%E5%9B%BD%E6%A0%87%E5%87%86%E5%9C%B0%E5%9B%BE-%E5%AE%A1%E5%9B%BE%E5%8F%B7GS(2020)4619%E5%8F%B7-shp%E6%A0%BC%E5%BC%8F>) |
